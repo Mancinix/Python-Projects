@@ -116,11 +116,8 @@ This project also reinforces my capability as a **Trainer – Data Analyst**, al
 ---
 
 ## 📸 Screenshots  
-_Add your notebook screenshots or output results here._
+<img width="764" height="896" alt="brave_aJLAxz2mmT" src="https://github.com/user-attachments/assets/7e5fddc8-6aee-4694-abfc-a44e151b47ac" />
 
----
+<img width="1595" height="1808" alt="image" src="https://github.com/user-attachments/assets/58b8c40d-8bbc-45a8-b5e1-6dccdeb3ff93" />
 
-## ✨ About the Author  
-**Yusuf Satilmis**  
-Trainer – Data Analyst  
-Helping learners develop strong Python, data, and analytics skills through real‑world examples and hands‑on practice.
+<img width="707" height="839" alt="brave_wk8Nd5XUfI" src="https://github.com/user-attachments/assets/308c4481-3e87-497f-bad5-93515ba9a74e" />
