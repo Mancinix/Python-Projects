@@ -86,8 +86,6 @@ This project also reinforces my capability as a **Trainer – Data Analyst**, al
 - Google Colab  
 - Pandas  
 - Google Drive (for notebook saving & sharing)  
-- Kaggle Python learning paths  
-- HackerRank & CodeChef practice challenges  
 
 ---
 
